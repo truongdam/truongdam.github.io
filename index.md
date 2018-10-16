@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "Rafael Benevides - Blog (Java, NodeJS,
-Javascript, DevOps, Docker, Kubernetes, Istio, etc)"
-tags: [docker, devops, java, javascript, angular, agile, design patterns,
-architecture, git, github, nodejs, npm, conferences, talks, technologies, node, kubernetes, istio ]
+excerpt: "Dam Truong - Blog (Java,
+Javascript, Python, DevOps, etc)"
+tags: [docker, devops, java, javascript, design patterns,
+architecture, git, github, talks, technologies]
 image:
   feature: background.jpg
   credit: todolistblog.com
