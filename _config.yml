@@ -30,11 +30,11 @@ redcarpet:
 owner:
   name: Dam Truong
   avatar: damtruong.png
-  bio: "Brazilian, (DDX) Director of Developer eXperience at @RedHat, Helping @Java Developers to adopt containers and microservices technologies so they can become experts."
+  bio: "Vietnamese, Software Developer at @Evolable Asia, learn new things, research old things so they can become experts."
   email: hdtruong.cse@gmail.com
   disqus-shortname: damtruongblog
-  twitter: damtruong
-  facebook: damtruong
+  twitter: #damtruong
+  facebook: truonghndam
   google:
     plus: Damtruong
     analytics: UA-1667243-1
@@ -42,12 +42,12 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: truongdam
+  github: #truongdam
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: damtruong
+  linkedin: truong-dam-300877a7
   xing: #username
-  instagram: damtruong
-  lastfm: damtruong
+  instagram: #damtruong
+  lastfm: #damtruong
   tumblr: #username
   pinterest: #username
   foursquare: #username
