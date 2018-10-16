@@ -29,7 +29,7 @@ redcarpet:
 # Site owner
 owner:
   name: Dam Truong
-  avatar: damtruong.jpg
+  avatar: damtruong.png
   bio: "Brazilian, (DDX) Director of Developer eXperience at @RedHat, Helping @Java Developers to adopt containers and microservices technologies so they can become experts."
   email: hdtruong.cse@gmail.com
   disqus-shortname: damtruongblog
