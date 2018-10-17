@@ -6,8 +6,8 @@ modified: 2015-09-27T20:53:07.573882-04:00
 comments: true
 image:
   feature: background.jpg
-  credit: kleinarl
-  creditlink: http://www.stockhambauer.at/
+  credit: unsplash
+  creditlink: https://unsplash.com/
 ---
 
 * Will be replaced with the ToC, excluding the "Contents" header

@@ -47,7 +47,7 @@ My current interests are:
 - Service Mesh
 - Serverless
 - Object Oriented / Functional Programming
-- Javascript (AngularJS and NodeJS)
+- Java, Javascript
 - DevOps tools and practices
 - Agile Methodologies
 - Opensource

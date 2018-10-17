@@ -6,6 +6,6 @@ tags: [docker, devops, java, javascript, design patterns,
 architecture, git, github, talks, technologies]
 image:
   feature: background.jpg
-  credit: todolistblog.com
-  creditlink: http://todolistblog.com/
+  credit: unsplash
+  creditlink: https://unsplash.com/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: guide-index
+layout: post-index
 title: All Guides
 excerpt: "A List of Guides"
 image:
