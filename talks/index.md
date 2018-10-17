@@ -18,16 +18,16 @@ image:
 
 #### Subject 1
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)
 
 #### Subject 2
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)
 
 <hr>
 
@@ -35,13 +35,13 @@ image:
 
 #### Subject 3
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)
 
 #### Subject 4
 
-- **Title:** [Link](https://truongdam/github.io)
-- **Slides:** [Slides](https://truongdam/github.io)
+- **Title:** [Link](https://truongdam.github.io)
+- **Slides:** [Slides](https://truongdam.github.io)

@@ -23,14 +23,13 @@ Hi, my name is Dam Truong. I am a 23 years old Vietnamese who lives in [Ho Chi M
 
 
 ### Java developer
-I started learning Java in 2016 at a Bach Khoa University. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution. As a result from this love I took certifications below:
-
-- 2013 – Junior Student - Bach Khoa University 
-- 20018 – Graduate at Bach Khoa University
+I started learning Java in 2016 at a Bach Khoa University. It was a first love sensation. After that I have been studying and trying to use Java as a powered, scalable and productive solution.
 
 ### The early days
 
-Content
+ I come from a countryside, where has sunny, wind, beautiful beach... In 2013, I moved to Ho Chi Minh to study and work at Bach Khoa University. Then, I took certifications:
+
+- 2018 – Bachelor of Engineering Computer Science - Bach Khoa University
 
 ### The enterprise days
 From 2017 to 2018 I worked at Elcom VietNam as Software Developer and participated on eHotel Project (a IPTV system related to hotel, restaurant, resort service). 
@@ -41,14 +40,15 @@ In september of 2018 I joined Evolable Asia (https://global.evolable.asia/) as D
 
 My current interests are:
 
-- Cloud-native applications
-- Containers (Docker, Kubernetes and Openshift) 
+- Java, Javascript
+- Optimize Application, System
+- Cloud-native applications 
 - Microservices
 - Service Mesh
 - Serverless
 - Object Oriented / Functional Programming
-- Java, Javascript
 - DevOps tools and practices
+- Containers (Docker, Kubernetes and Openshift)
 - Agile Methodologies
 - Opensource
 
