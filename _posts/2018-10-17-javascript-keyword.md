@@ -13,3 +13,5 @@ There are important keywords, if you're senior developer you may already, if you
 - Call Stack
 - Global Memory
 
+[Visualize Javascript code executions](http://latentflip.com/loupe/)
+
