@@ -76,6 +76,8 @@ There are important keywords, if you're senior developer you may already know, i
    - [Javascript modules, module formats, module loaders and module bundlers](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
    - Message Queue and Event Loop
 
+- Dom and Layout Trees
+    - Render tree: DOM and CSSOM, combine the DOM and CSSOM into a render tree, run layout on the render tree
 - Factories and Classes
  
 {% highlight text %}
@@ -124,9 +126,79 @@ There are important keywords, if you're senior developer you may already know, i
         
 {% endhighlight %}
 
+- this, call, apply, bind
+    - Function.prototype.call()
+    - Function.prototype.apply()
+    - Function.prototype.bind()
 
- 
+{% highlight text %}
+    
+    var obj = { name: 'Truong Dam'};
+    var greeting = function(a, b){
+        return 'welcome ' + this.name + ' to' + a + ' at ' + b; 
+    }
+    
+    console.log(greeting.call(obj, 'hcm city', '2018));     // function.prototype.call()
+    console.log(greeting.apply(obj, ['hcm city','2018']);   // function.protorype.apply()
+    
+    var bound = greeting.bind(obj);  // function.prototype.bind()
+    console.log(bound('hcm', '2018');
 
+{% endhighlight %}
+
+ - Object.create, Object.assign
  
+ {% highlight text %}
+
+    var obj = { 
+        name: "truong dam",
+        printIntro : function() {
+            console.log('My name is ${this.name}. I live at ${this.city} ');
+        }
+    };
+    
+    var copyObj = Object.create(obj);
+    copyObj.city = 'hcm';
+    copyObj.printIntro();
+    
+    
+    var asObj = Object.assign({class:'economic', age: '22'}, obj);
+    console.log(asObj.class, asObj.age, asObj.name);
+
+ {% endhighlight %
+ 
+- Map, filter, reduce
+    [link](https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/)
+
+- Pure function, side effects, state mutation
+- Closure
+- Promise
+    - [javascripts promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
+{% highlight text %}
+    
+    var isMove = false;
+    
+    var willMoveCity = new Promise( function(resolve, reject){
+        
+        if (isMove){
+            var destination = {
+                city : 'hcm',
+                time: 2018
+            };
+            
+            resolve(destination);
+            
+        } else {
+            var reason = new Error('family don't move');
+            reject(reason);
+        
+        }
+        
+    
+    });
+    
+{% endhighlight %}
+
  
 
