@@ -2,20 +2,20 @@ Markdown is a way to style text on the web. You control the display of the docum
  formatting words as bold or italic , adding images, and creating lists  are just
  a few of the things we can do with Markdown
 
- #### Headers
- # This is a <h1\> tag
- ###### This is a <h6\> tag
+#### Headers
+# This is a <h1\> tag
+###### This is a <h6\> tag
 
 ======
 
- #### Blockquotes
- He said:
+#### Blockquotes
+He said:
 
    ```code blocks```
 
 ======
 
-  #### Lists
+#### Lists
  * item 1
  * item 2
      * item 2a
@@ -29,7 +29,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 ======
 
 #### Images
-![Alt text](../favicon.png)
+![Alt text](https://truongdam.github.io/favicon.png)
 
 ======
 
