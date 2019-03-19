@@ -7,6 +7,7 @@
 - Tạo project:
 ```
     mkdir uglify-demo
+    
     yarn init
 ```
 - Xem qua [cách sử dụng yarn](https://truongdam.github.io/2019/03/19/tu-hoc-co-ban-ve-yarn/) nếu chưa biết, nhập các thông tin cần thiết, ta có file ```package.json``` chứa nội dung sau :
