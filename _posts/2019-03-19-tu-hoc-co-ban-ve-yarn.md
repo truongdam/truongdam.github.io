@@ -1,4 +1,4 @@
-### Hướng dẫn sử dụng cơ bản yarn
+#### Hướng dẫn sử dụng cơ bản yarn
 - yarn là gì: yarn là một module quản lí các package đã được đăng kí từ NpmJS hoặc Bower.
 - Ưu điểm :
     - Tốc độ nhanh hơn npm
