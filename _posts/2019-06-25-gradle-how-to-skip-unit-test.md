@@ -32,10 +32,11 @@ $ ./gradlew build
 :check
 
 :build
-
 ```
 
+
 * Gradle build with unit test skipped
+
 
 ```
 $ gradle build -x test
