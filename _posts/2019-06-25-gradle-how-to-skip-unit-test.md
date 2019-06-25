@@ -1,9 +1,11 @@
 To skip the entire unit tests in Gradle build, uses this option -x test
+
 ```
 ./gradlew build -x test
 ```
 
 * Default Gradle build
+
 ```
 $ ./gradlew build
 
