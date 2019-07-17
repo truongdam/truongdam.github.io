@@ -16,12 +16,9 @@ image:
 
 ## Talk 1
 
-#### Subject 1
+#### Roadmaps for developers
 
-- **Title:** [Link](https://truongdam.github.io)
-- **Slides:** [Slides](https://truongdam.github.io)
-
-- **Title:** [Link](https://truongdam.github.io)
+- **Title:** [Roadmaps for developers](https://roadmap.sh/)
 - **Slides:** [Slides](https://truongdam.github.io)
 
 #### Subject 2
