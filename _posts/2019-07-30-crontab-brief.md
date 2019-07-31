@@ -22,6 +22,18 @@ crontab -e
 crontab -r
 ```
 
+###### Crontab example
+Create a file rpairdb.sh:
+```
+#!/bin/bash
+mysqlcheck -u{username}  -p{password} --auto-repair --check --all-databases
+```
+```
+crontab -e
+*    3    *    *    *    /rpairdb.sh
+```
+Every day, at 3 am, database's repaired on regular schedule.
+
 ###### Crontab file location
 
 - Mac OS X
