@@ -27,4 +27,4 @@
 - [Offscreen Magazine](https://www.offscreenmag.com/)
 - [Hard Thing About Things Building](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
-Bài viết note lại từ chia sẻ của Product Manager TIKI.
+Bài viết note lại từ chia sẻ của Product Manager TIKI. Via ITviec
