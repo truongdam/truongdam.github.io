@@ -21,10 +21,9 @@ image:
 - **Title:** [Roadmaps for developers](https://roadmap.sh/)
 - **Slides:** [Slides](https://truongdam.github.io)
 
-#### Subject 2
+#### Explore about Product Manager
 
-- **Title:** [Link](https://truongdam.github.io)
-- **Slides:** [Slides](https://truongdam.github.io)
+- **Title:** [Product Manager without any experience](https://truongdam.github.io/2019/08/06/product-manager-without-any-experience)
 
 <hr>
 
