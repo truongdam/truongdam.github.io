@@ -41,14 +41,15 @@ In september of 2018 I joined Evolable Asia (https://global.evolable.asia/) as D
 My current interests are:
 
 - Java, Javascript
+- Spring, Vuejs
 - Optimize Application, System
 - Cloud-native applications 
 - Microservices
-- Service Mesh
 - Serverless
 - Object Oriented / Functional Programming
 - DevOps tools and practices
-- Containers (Docker, Kubernetes and Openshift)
+- Containers (Docker)
+- Redis, Eslasticsearch
 - Agile Methodologies
 - Opensource
 
