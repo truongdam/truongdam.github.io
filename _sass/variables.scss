@@ -55,7 +55,7 @@ $youtube-color      : #ff3333;
 $linkcolor 		    : #343434;
 $link-color       : $linkcolor;
 $linkcolorhover 	: #1865cc;
-$linkcolorvisited : lighten($linkcolorhover, 20);
+$linkcolorvisited : lighten($linkcolor, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 /*
