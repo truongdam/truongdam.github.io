@@ -39,6 +39,7 @@ a {
 		color: $linkcolorvisited;
 	}
 	&:hover {
+		text-decoration: none;
 		color: $linkcolorhover;
 	}
 	&:focus {
