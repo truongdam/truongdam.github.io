@@ -15,3 +15,4 @@
 - [Making API Requests with Postman or cURL](https://www.taniarascia.com/making-api-requests-postman-curl/)
 - [Pip tutorials](https://www.tutorialdocs.com/tutorial/pip/quickstart.html)
 - [Java ibm](https://developer.ibm.com/technologies/java/)
+- [Introduction to ActiveJDBC ](https://javagyanmantra.wixsite.com/website/single-post/2018/02/22/Introduction-to-Active-JDBC)
