@@ -17,3 +17,4 @@
 - [Pip tutorials](https://www.tutorialdocs.com/tutorial/pip/quickstart.html)
 - [Java ibm](https://developer.ibm.com/technologies/java/)
 - [Introduction to ActiveJDBC ](https://javagyanmantra.wixsite.com/website/single-post/2018/02/22/Introduction-to-Active-JDBC)
+- [How to setup HaProxy as load balancer for Nginx](https://www.journaldev.com/29943/haproxy-load-balancer-nginx-centos)
