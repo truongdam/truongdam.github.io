@@ -18,3 +18,5 @@
 - [Java ibm](https://developer.ibm.com/technologies/java/)
 - [Introduction to ActiveJDBC ](https://javagyanmantra.wixsite.com/website/single-post/2018/02/22/Introduction-to-Active-JDBC)
 - [How to setup HaProxy as load balancer for Nginx](https://www.journaldev.com/29943/haproxy-load-balancer-nginx-centos)
+- [Using nginx as reverse proxy](https://jochen.kirstaetter.name/nginx-reverse-proxy/)
+- [Setting up Nginx reverse proxy](https://linuxize.com/post/nginx-reverse-proxy/)
