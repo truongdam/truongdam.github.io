@@ -20,3 +20,4 @@
 - [How to setup HaProxy as load balancer for Nginx](https://www.journaldev.com/29943/haproxy-load-balancer-nginx-centos)
 - [Using nginx as reverse proxy](https://jochen.kirstaetter.name/nginx-reverse-proxy/)
 - [Setting up Nginx reverse proxy](https://linuxize.com/post/nginx-reverse-proxy/)
+- [The magic behind spring boot autoconfiguration](https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/)
