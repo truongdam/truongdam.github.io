@@ -21,3 +21,5 @@
 - [Using nginx as reverse proxy](https://jochen.kirstaetter.name/nginx-reverse-proxy/)
 - [Setting up Nginx reverse proxy](https://linuxize.com/post/nginx-reverse-proxy/)
 - [The magic behind spring boot autoconfiguration](https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/)
+- [Build docker image of spring boot app](https://geowarin.com/build-a-docker-image-of-your-spring-boot-app/)
+- [github dsyer - father of spring boot](https://github.com/dsyer)
