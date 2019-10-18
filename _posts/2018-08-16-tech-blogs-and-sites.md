@@ -24,3 +24,4 @@
 - [Build docker image of spring boot app](https://geowarin.com/build-a-docker-image-of-your-spring-boot-app/)
 - [github dsyer - father of spring boot](https://github.com/dsyer)
 - [the ultimate crontab](https://www.codementor.io/akul08/the-ultimate-crontab-cheatsheet-5op0f7o4r)
+- [Install java on ubuntu](https://www.lifewire.com/install-java-on-ubuntu-4125508)
