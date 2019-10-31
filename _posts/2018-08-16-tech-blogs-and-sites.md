@@ -27,3 +27,5 @@
 - [Install java on ubuntu](https://www.lifewire.com/install-java-on-ubuntu-4125508)
 - [Spring thymeleaf pagination](https://www.baeldung.com/spring-thymeleaf-pagination)
 - [Auto reload static content, spring boot](https://attacomsian.com/blog/spring-boot-auto-reload-thymeleaf-templates)
+- [ant, maven, gradle with one project] (https://examples.javacodegeeks.com/core-java/java-build-tools-ant-vs-maven-vs-gradle/)
+- [Building java project with gradle](https://hackersandslackers.com/building-java-projects-with-gradle/)
