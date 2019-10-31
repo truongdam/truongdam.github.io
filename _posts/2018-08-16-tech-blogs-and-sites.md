@@ -26,3 +26,4 @@
 - [the ultimate crontab](https://www.codementor.io/akul08/the-ultimate-crontab-cheatsheet-5op0f7o4r)
 - [Install java on ubuntu](https://www.lifewire.com/install-java-on-ubuntu-4125508)
 - [Spring thymeleaf pagination](https://www.baeldung.com/spring-thymeleaf-pagination)
+- [Auto reload static content, spring boot](https://attacomsian.com/blog/spring-boot-auto-reload-thymeleaf-templates)
