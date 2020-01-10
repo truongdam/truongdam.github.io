@@ -30,4 +30,5 @@
 - [ant, maven, gradle with one project] (https://examples.javacodegeeks.com/core-java/java-build-tools-ant-vs-maven-vs-gradle/)
 - [Building java project with gradle](https://hackersandslackers.com/building-java-projects-with-gradle/)
 - [Uninstall programs ubuntu, apt-get](https://vitux.com/how-to-uninstall-programs-from-your-ubuntu-system/)
+- [Code Review Java](https://dev.to/smartyansh/code-review-checklist-for-java-beginners-181f)
 
