@@ -31,4 +31,5 @@
 - [Building java project with gradle](https://hackersandslackers.com/building-java-projects-with-gradle/)
 - [Uninstall programs ubuntu, apt-get](https://vitux.com/how-to-uninstall-programs-from-your-ubuntu-system/)
 - [Code Review Java](https://dev.to/smartyansh/code-review-checklist-for-java-beginners-181f)
+- [How to read code] (https://spin.atomicobject.com/2017/06/01/how-to-read-code/)
 
