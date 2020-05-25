@@ -33,4 +33,5 @@
 - [Code Review Java](https://dev.to/smartyansh/code-review-checklist-for-java-beginners-181f)
 - [How to read code](https://spin.atomicobject.com/2017/06/01/how-to-read-code/)
 - [Javascript Once function](https://davidwalsh.name/javascript-once)
+- [Overview Proxy servers, cors in react, vue app](https://levelup.gitconnected.com/overview-of-proxy-server-and-how-we-use-them-in-react-bf67c062b929)
 
