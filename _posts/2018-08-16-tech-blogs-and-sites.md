@@ -9,6 +9,7 @@
 - [Topal Engineer Blog](https://www.toptal.com/developers/blog)
 - [Developer IBM](https://developer.ibm.com/)
 - [Vanila Java](https://vanilla-java.github.io/)
+- [Web dev](https://web.dev/learn/)
 
 
 
