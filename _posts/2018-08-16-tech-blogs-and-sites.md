@@ -34,4 +34,5 @@
 - [How to read code](https://spin.atomicobject.com/2017/06/01/how-to-read-code/)
 - [Javascript Once function](https://davidwalsh.name/javascript-once)
 - [Overview Proxy servers, cors in react, vue app](https://levelup.gitconnected.com/overview-of-proxy-server-and-how-we-use-them-in-react-bf67c062b929)
+- [Summary Search engine optimize](https://9elements.com/seo-cheat-sheet/)
 
