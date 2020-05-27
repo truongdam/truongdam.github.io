@@ -37,3 +37,4 @@
 - [Overview Proxy servers, cors in react, vue app](https://levelup.gitconnected.com/overview-of-proxy-server-and-how-we-use-them-in-react-bf67c062b929)
 - [Summary Search engine optimize](https://9elements.com/seo-cheat-sheet/)
 - [Lazy load image](https://web.dev/use-lazysizes-to-lazyload-images/)
+- [Forward proxy and reverse proxy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling)
