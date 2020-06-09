@@ -38,3 +38,7 @@
 - [Summary Search engine optimize](https://9elements.com/seo-cheat-sheet/)
 - [Lazy load image](https://web.dev/use-lazysizes-to-lazyload-images/)
 - [Forward proxy and reverse proxy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling)
+
+###### Vue
+https://vueschool.io/articles/
+https://vuedose.tips/tips/
