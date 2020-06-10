@@ -39,6 +39,7 @@
 - [Lazy load image](https://web.dev/use-lazysizes-to-lazyload-images/)
 - [Forward proxy and reverse proxy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling)
 - [Webpack advanced setup](https://www.robinwieruch.de/webpack-advanced-setup-tutorial)
+- [Web working principles](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/03.1.html)
 
 ###### Vue
 https://vueschool.io/articles/
